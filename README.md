@@ -6,4 +6,4 @@ examle-
 int dailyPracticeMinutes = 90;
 Here:
 dailyPracticeMinutes → variable
-int → data type
+int → data type j 
